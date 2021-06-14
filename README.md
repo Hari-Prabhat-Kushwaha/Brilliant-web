@@ -11,8 +11,7 @@ In the project directory, you can run:
 
 ## Git clone
 
-### `git clone https://github.com/Prashanth0703/Brilliant_Clone`
-### `cd Brilliant_Clone`
+### git clone https://github.com/Hari-Prabhat-Kushwaha/Brilliant-web.git 
 
 ## Method 1:
 

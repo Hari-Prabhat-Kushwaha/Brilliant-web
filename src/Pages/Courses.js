@@ -97,10 +97,15 @@ const Courses = () => {
                   Lesson 4
                 </a>
               </li>
+              <li>
+                <a className="dropdown-item" href="#">
+                  Lesson 5
+                </a>
+              </li>
             </ul>
           </div>
           <h4 className="m-3">Warmup puzzles</h4>
-          <button className="btn-dark btn-lg">Next Level</button>
+          <button className="btn-dark btn-lg">Next Lesson</button>
         </div>
       </div>
       <br />
